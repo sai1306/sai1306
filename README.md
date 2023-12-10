@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sai1306
-- 👀 I’m interested in creating user friendly interfaces.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in creating end to end web applications.
+- 🌱 I;m currently looking for contribution & internships.
 - 📫 Reach me through mail - chillalesaiganesh@gmail.com
 
 <!---
