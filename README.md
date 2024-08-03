@@ -15,7 +15,7 @@
 
 - 📄 Refer my resume [https://drive.google.com/file/d/14AcjZmWSCkyWD_ZDRNkuPvAOFJ7AzxuY/view?usp=sharing](https://drive.google.com/file/d/14AcjZmWSCkyWD_ZDRNkuPvAOFJ7AzxuY/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me on</h3>
 <p align="left">
 <a href="https://twitter.com/chillaleg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chillaleg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chillalesai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chillalesai" height="30" width="40" /></a>
