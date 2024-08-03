@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sai1306
+- Pursuing final year of graduation:)
 - 👀 I’m interested in creating end to end web applications.
-- 🌱 I;m currently looking for contribution & internships.
+- 🌱 MEAN stack Intern
 - 📫 Reach me through mail - chillalesaiganesh@gmail.com
-- 🌱 I’m currently learning **AWS**
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
