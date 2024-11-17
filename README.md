@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **chillalesaiganesh@gmail.com**
 
-- 📄 Refer my resume [https://drive.google.com/file/d/14AcjZmWSCkyWD_ZDRNkuPvAOFJ7AzxuY/view?usp=sharing](https://drive.google.com/file/d/14AcjZmWSCkyWD_ZDRNkuPvAOFJ7AzxuY/view?usp=sharing)
 
 <h3 align="left">Follow me on</h3>
 <p align="left">
